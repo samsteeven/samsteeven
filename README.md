@@ -17,4 +17,4 @@ Je conçois, sécurise et automatise des architectures logicielles complexes pou
 
 *   💼 **LinkedIn** : [linkedin.com/in/samensteeve](https://www.linkedin.com/in/samensteeve)
 *   🌐 **Site Web & Blog** : [samensteeve.com](https://samensteeve.com)
-*   ✉️ **Email** : [samendjiaha@gmail.com](mailto:contact@samensteeve.com)
+*   ✉️ **Email** : [contact@samensteeve.com](mailto:contact@samensteeve.com)
