@@ -1,63 +1,40 @@
-<h1 align="center">Hi 👋, I'm Sam Steeven</h1>
-<h3 align="center">Full-Stack Developer | Software Engineer | Web Developer | Backend Enthusiast</h3>
+# Salut, moi c'est Samen Steeve 👋
+### Software Engineer & Solution Architect | Tech Lead | AI Automation Specialist
+
+Je conçois, sécurise et automatise des architectures logicielles complexes pour des systèmes de production exigeants. Tech Lead indépendant basé à Douala, j'accompagne les entreprises dans la structuration de leurs backends, le déploiement cloud et l'intégration d'automatisations IA autonomes (n8n, agents intelligents).
 
 ---
 
-## 👨‍💻 About Me
+### 🛡️ Domaines d'Expertise & Focus Actuel
 
-I'm a passionate developer focused on building **modern, high-performance, and well-structured software solutions**.  
-I enjoy solving problems, exploring new technologies, and collaborating on innovative projects.
-
-- 🔭 I'm currently working on my **personal portfolio website**.  
-- 👯 I'm open to **collaborating** on interesting and challenging projects.
+*   **Ingénierie Logicielle & APIs** : Conception d'architectures résilientes et évolutives, modélisation de domaines complexes (Laravel, TypeScript, Node.js, Clean Architecture).
+*   **Automatisation IA & Agents** : Création de workflows décisionnels autonomes supervisés ("Human-in-the-loop") via **n8n**, LangGraph et intégration de serveurs MCP (Model Context Protocol).
+*   **Cloud & Sécurité (SecOps)** : Déploiement d'infrastructures hybrides, audits de sécurité applicative, pentesting et remédiation.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Technologies & Outils de Prédilection
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/migouel-sam/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="migouel-sam" height="30" width="40" />
-  </a>
-  <a href="mailto:samendjiaha@gmail.com" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="28" alt="Email" />
-  </a>
-</p>
-
----
-
-<h3 align="left">🧰 Languages & Tools:</h3>
-
-<div>
-  <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="left" alt="TailwindCSS" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-  <img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="left" alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
-  <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-  <img align="left" alt="Spring boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="left" alt="Express.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-  <img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="left" alt="Redis" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img align="left" alt="Docker" width="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
-  <img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-  <img align="left" alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-  <img align="left" alt="PhpStorm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" />
-  <img align="left" alt="WebStorm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
-</div>
-
-<br><br><br>
+| Catégorie | Outils & Langages |
+|---|---|
+| **Langages** | TypeScript • JavaScript • PHP • Python • Go • Java |
+| **Frameworks Backend** | Laravel • NestJS • Express |
+| **Frontend** | Angular • React • Next.js • Inertia.js |
+| **Bases de Données & Cache** | PostgreSQL • MySQL • MongoDB • Redis • Turso (SQLite) |
+| **DevOps & Sécurité** | Docker • AWS • CI/CD (GitHub Actions) • Pentest Applicatif |
+| **Automatisation IA** | n8n • LangChain/LangGraph • Ollama • CrewAI • MCP |
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+### 🚀 Projets & Activités Récentes
 
-![Sam Steeven GitHub stats](https://github-readme-stats.vercel.app/api?username=samsteeven&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samsteeven&layout=compact&theme=radical)
+*   **[services-samensteeve](https://github.com/samsteeven/services-samensteeve)** : Mon portfolio et vitrine de services d'ingénierie, conçu avec Next.js 15, typage TypeScript strict, support i18n et intégration de formulaires qualifiants.
+*   **Automatisation & Agents IA** : Conception de ponts Next.js vers des agents de tri et d'enrichissement de leads automatisés basés sur des serveurs de modèles ouverts (Hermes/Llama-3).
 
 ---
+
+### 📬 Connectons-nous
+
+*   💼 **LinkedIn** : [linkedin.com/in/samsteeve](https://www.linkedin.com/in/samsteeve)
+*   🌐 **Site Web & Blog** : [samensteeve.com](https://samensteeve.com) *(Remplace par ton URL finale)*
+*   ✉️ **Email** : [samendjiaha@gmail.com](mailto:samendjiaha@gmail.com)
