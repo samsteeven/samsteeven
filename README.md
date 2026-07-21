@@ -13,15 +13,8 @@ Je conçois, sécurise et automatise des architectures logicielles complexes pou
 
 ---
 
-### 🚀 Projets & Activités Récentes
-
-*   **[services-samensteeve](https://github.com/samsteeven/services-samensteeve)** : Mon portfolio et vitrine de services d'ingénierie, conçu avec Next.js 15, typage TypeScript strict, support i18n et intégration de formulaires qualifiants.
-*   **Automatisation & Agents IA** : Conception de ponts Next.js vers des agents de tri et d'enrichissement de leads automatisés basés sur des serveurs de modèles ouverts (Hermes/Llama-3).
-
----
-
 ### 📬 Connectons-nous
 
 *   💼 **LinkedIn** : [linkedin.com/in/samensteeve](https://www.linkedin.com/in/samensteeve)
 *   🌐 **Site Web & Blog** : [samensteeve.com](https://samensteeve.com)
-*   ✉️ **Email** : [samendjiaha@gmail.com](mailto:samendjiaha@gmail.com)
+*   ✉️ **Email** : [samendjiaha@gmail.com](mailto:contact@samensteeve.com)
