@@ -13,19 +13,6 @@ Je conçois, sécurise et automatise des architectures logicielles complexes pou
 
 ---
 
-### 🛠️ Technologies & Outils de Prédilection
-
-| Catégorie | Outils & Langages |
-|---|---|
-| **Langages** | TypeScript • JavaScript • PHP • Python • Go • Java |
-| **Frameworks Backend** | Laravel • NestJS • Express |
-| **Frontend** | Angular • React • Next.js • Inertia.js |
-| **Bases de Données & Cache** | PostgreSQL • MySQL • MongoDB • Redis • Turso (SQLite) |
-| **DevOps & Sécurité** | Docker • AWS • CI/CD (GitHub Actions) • Pentest Applicatif |
-| **Automatisation IA** | n8n • LangChain/LangGraph • Ollama • CrewAI • MCP |
-
----
-
 ### 🚀 Projets & Activités Récentes
 
 *   **[services-samensteeve](https://github.com/samsteeven/services-samensteeve)** : Mon portfolio et vitrine de services d'ingénierie, conçu avec Next.js 15, typage TypeScript strict, support i18n et intégration de formulaires qualifiants.
@@ -35,6 +22,6 @@ Je conçois, sécurise et automatise des architectures logicielles complexes pou
 
 ### 📬 Connectons-nous
 
-*   💼 **LinkedIn** : [linkedin.com/in/samsteeve](https://www.linkedin.com/in/samsteeve)
-*   🌐 **Site Web & Blog** : [samensteeve.com](https://samensteeve.com) *(Remplace par ton URL finale)*
+*   💼 **LinkedIn** : [linkedin.com/in/samensteeve](https://www.linkedin.com/in/samensteeve)
+*   🌐 **Site Web & Blog** : [samensteeve.com](https://samensteeve.com)
 *   ✉️ **Email** : [samendjiaha@gmail.com](mailto:samendjiaha@gmail.com)
