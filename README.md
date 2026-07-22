@@ -11,10 +11,4 @@ I help SMBs and scale-ups design resilient backends, secure production services,
 
 ## Tech & tools
 
-Laravel · PHP · TypeScript · Node.js · n8n · LangGraph · Docker · Kubernetes · Terraform · CI/CD · Application Security
-
-## Contact
-
-- Website: https://samensteeve.com/
-- LinkedIn: https://www.linkedin.com/in/samensteeve
-- Email: contact@samensteeve.com
+Laravel · Nextjs · TypeScript · Node.js · Adonisjs · SpringBoot · Playwright · n8n · LangGraph · Docker · Kubernetes · Terraform · CI/CD · Application Security · Pentest
